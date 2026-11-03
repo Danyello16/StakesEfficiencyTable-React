@@ -1,0 +1,121 @@
+promo_id,site_id,site_name,games,start_date,end_date
+P01,1001,Casino Alpha AT,Golden Fox;Ruby Spins,2026-08-17,2026-08-23
+P02,1002,"Casino Beta, DE",Pharaoh's Gate,2026-09-07,2026-09-13
+P03,1003,Casino Gamma HR,Lucky Lantern,2026-08-24,2026-08-30
+P04,1004,Casino Delta IT,ALL,2026-09-14,2026-09-20
+P05,1001,Casino Alpha AT,Crystal Reel,2026-09-28,2026-09-22
+P06,1004,Casino Delta IT,Lucky Lantern,2026-08-10,2026-08-16
+P07,1003,Casino Gamma HR,Midnight Bells,2026-09-09,2026-09-15
+P08,1002,"Casino Beta, DE",Golden Fox;Thunder Hooves,2026-09-25,2026-09-30
+P09,1004,Casino Delta IT,Thunder Hooves,2026-08-24,2026-08-30
+P10,1028,Bet Dune LV,ALL,2026-08-27,2026-09-23
+P11,1009,Casino Iota CH,Amber Tide;Diamond Drift;Ruby Spins,2026-06-01,2026-06-07
+P12,1017,Slots Rho ES,Rapid Rooster;Sunken Gold,2026-05-23,2026-06-05
+P13,1024,Bet Omega SI,Iron Lotus;Starlit Bay;Crystal Reel,2026-06-23,2026-07-06
+P14,1009,Casino Iota CH,Frost Peak;Lucky Lantern,2026-07-29,2026-08-11
+P15,1016,Casino Pi IT,ALL,2026-06-19,2026-07-09
+P16,1034,Casino Kestrel DE,Neon Harbor,2026-06-01,2026-06-07
+P17,1010,Bet Kappa SI,Diamond Drift,2026-09-08,2026-09-14
+P18,1005,Casino Epsilon RO,Moon Cellar,2026-05-13,2026-05-26
+P19,1015,Bet Omicron NL,Velvet Vault,2026-07-04,2026-07-31
+P20,1015,Bet Omicron NL,Ember Wheel,2026-06-07,2026-06-09
+P21,1018,Casino Sigma HR,Sunken Gold,2026-05-14,2026-06-03
+P22,1034,Casino Kestrel DE,Royal Clover,2026-04-23,2026-04-29
+P23,1011,Casino Lambda LV,Pharaoh's Gate,2026-06-11,2026-06-15
+P24,1007,Bet Eta NL,Lucky Lantern;Diamond Drift,2026-08-25,2026-09-03
+P25,1006,Casino Zeta AT,Diamond Drift,2026-05-18,2026-05-24
+P26,1006,Casino Zeta AT,Diamond Drift;Jade Temple,2026-08-15,2026-08-28
+P27,1035,Bet Larch IT,Crystal Reel,2026-07-11,2026-07-24
+P28,1030,Casino Glacier RS,Golden Fox,2026-09-09,2026-09-22
+P29,1040,Slots Quill LV,Sunken Gold,2026-05-26,2026-06-22
+P30,1026,Slots Boreal ES,Thunder Hooves,2026-05-07,2026-05-20
+P31,1017,Slots Rho ES,Frost Peak,2026-08-30,2026-09-12
+P32,1031,Bet Hollow BG,Lucky Lantern,2026-04-20,2026-04-29
+P33,1015,Bet Omicron NL,Jade Temple,2026-08-22,2026-09-18
+P34,1029,Slots Falcon ES,Frost Peak;Crystal Reel,2026-08-04,2026-08-10
+P35,1033,Slots Juniper RO,Frost Peak,2026-08-15,2026-08-28
+P36,1030,Casino Glacier RS,Ruby Spins,2026-06-17,2026-06-23
+P37,1039,Bet Prairie CH,Iron Lotus,2026-04-18,2026-04-24
+P38,1031,Bet Hollow BG,Neon Harbor;Lucky Lantern,2026-05-31,2026-06-06
+P39,1021,Slots Phi RO,Frost Peak;Copper Crown;Lucky Lantern,2026-06-20,2026-06-26
+P40,1035,Bet Larch IT,Crystal Reel,2026-08-22,2026-08-28
+P41,1002,"Casino Beta, DE",Lucky Lantern,2026-09-27,2026-09-29
+P42,1007,Bet Eta NL,Neon Harbor,2026-04-26,2026-05-09
+P43,1013,Slots Nu BG,Ember Wheel;Royal Clover,2026-05-11,2026-05-17
+P44,1037,Slots Nimbus SI,Silver Comet;Sunken Gold,2026-06-15,2026-07-05
+P45,1029,Slots Falcon ES,Wild Orchard,2026-05-14,2026-05-27
+P46,1021,Slots Phi RO,Frost Peak,2026-07-22,2026-07-28
+P47,1024,Bet Omega SI,Crystal Reel;Amber Tide;Velvet Vault,2026-07-25,2026-08-03
+P48,1031,Bet Hollow BG,Copper Crown;Thunder Hooves,2026-07-03,2026-07-05
+P49,1010,Bet Kappa SI,Silver Comet;Golden Fox;Frost Peak,2026-05-31,2026-06-13
+P50,1024,Bet Omega SI,Amber Tide;Thunder Hooves,2026-05-17,2026-05-26
+P51,1018,Casino Sigma HR,Ember Wheel,2026-08-07,2026-08-13
+P52,1017,Slots Rho ES,Crystal Reel;Sunken Gold,2026-09-03,2026-09-07
+P53,1030,Casino Glacier RS,Thunder Hooves;Crystal Reel,2026-07-23,2026-08-05
+P54,1010,Bet Kappa SI,Moon Cellar,2026-06-22,2026-07-01
+P55,1025,Casino Aurora NL,Ruby Spins,2026-05-13,2026-05-26
+P56,1030,Casino Glacier RS,Ruby Spins;Moon Cellar,2026-07-18,2026-07-24
+P57,1039,Bet Prairie CH,Rapid Rooster;Lucky Lantern,2026-06-04,2026-06-24
+P58,1031,Bet Hollow BG,Jade Temple,2026-07-22,2026-07-28
+P59,1039,Bet Prairie CH,ALL,2026-09-08,2026-09-10
+P60,1030,Casino Glacier RS,Amber Tide,2026-07-16,2026-07-25
+P61,1019,Bet Tau CH,Moon Cellar,2026-06-14,2026-06-20
+P62,1028,Bet Dune LV,Sunken Gold;Iron Lotus,2026-07-02,2026-07-11
+P63,1021,Slots Phi RO,ALL,2026-08-16,2026-08-25
+P64,1025,Casino Aurora NL,Jade Temple;Moon Cellar,2026-08-12,2026-08-21
+P65,1023,Bet Psi IT,Tiger Lagoon,2026-06-06,2026-06-10
+P66,1022,Casino Chi DE,Moon Cellar,2026-06-08,2026-06-28
+P67,1004,Casino Delta IT,Neon Harbor;Ember Wheel,2026-06-23,2026-06-29
+P68,1001,Casino Alpha AT,Rapid Rooster,2026-05-03,2026-05-16
+P69,1038,Casino Opal NL,Wild Orchard;Moon Cellar,2026-05-13,2026-05-19
+P70,1025,Casino Aurora NL,Jade Temple,2026-06-04,2026-07-01
+P71,1014,Bet Xi DE,Pharaoh's Gate;Iron Lotus;Ruby Spins,2026-08-06,2026-08-08
+P72,1005,Casino Epsilon RO,Iron Lotus,2026-06-03,2026-06-16
+P73,1013,Slots Nu BG,Diamond Drift;Silver Comet,2026-08-16,2026-08-18
+P74,1030,Casino Glacier RS,Silver Comet;Velvet Vault;Golden Fox,2026-07-01,2026-07-07
+P75,1016,Casino Pi IT,Crystal Reel;Lucky Lantern;Amber Tide,2026-08-13,2026-08-19
+P76,1011,Casino Lambda LV,Golden Fox,2026-09-09,2026-09-29
+P77,1006,Casino Zeta AT,Jade Temple,2026-05-27,2026-06-09
+P78,1005,Casino Epsilon RO,Lucky Lantern,2026-06-18,2026-07-15
+P79,1013,Slots Nu BG,Crystal Reel;Pharaoh's Gate,2026-09-12,2026-09-18
+P80,1004,Casino Delta IT,Copper Crown,2026-07-21,2026-07-27
+P81,1002,"Casino Beta, DE",Rapid Rooster,2026-05-29,2026-06-04
+P82,1007,Bet Eta NL,Crystal Reel;Iron Lotus,2026-04-12,2026-04-18
+P83,1008,Slots Theta ES,Moon Cellar;Lucky Lantern;Jade Temple,2026-07-14,2026-07-16
+P84,1004,Casino Delta IT,Crystal Reel,2026-05-04,2026-05-10
+P85,1032,Casino Indigo AT,Tiger Lagoon;Iron Lotus,2026-08-21,2026-09-03
+P86,1030,Casino Glacier RS,Thunder Hooves,2026-05-24,2026-06-13
+P87,1019,Bet Tau CH,Starlit Bay;Diamond Drift,2026-09-02,2026-09-04
+P88,1019,Bet Tau CH,Silver Comet;Lucky Lantern,2026-08-03,2026-08-07
+P89,1020,Casino Upsilon AT,Royal Clover,2026-05-31,2026-06-06
+P90,1030,Casino Glacier RS,Ember Wheel,2026-04-15,2026-04-21
+P91,1009,Casino Iota CH,Amber Tide;Jade Temple;Copper Crown,2026-08-16,2026-08-29
+P92,1033,Slots Juniper RO,Rapid Rooster;Frost Peak;Tiger Lagoon,2026-06-30,2026-07-06
+P93,1022,Casino Chi DE,Wild Orchard;Iron Lotus,2026-08-27,2026-08-31
+P94,1023,Bet Psi IT,Copper Crown;Frost Peak,2026-07-01,2026-07-14
+P95,1008,Slots Theta ES,Moon Cellar,2026-09-03,2026-09-05
+P96,1023,Bet Psi IT,Royal Clover,2026-05-01,2026-05-07
+P97,1035,Bet Larch IT,Ruby Spins,2026-06-07,2026-06-09
+P98,1014,Bet Xi DE,Amber Tide;Ruby Spins,2026-06-13,2026-06-26
+P99,1002,"Casino Beta, DE",Wild Orchard;Ruby Spins,2026-04-26,2026-05-02
+P100,1014,Bet Xi DE,Iron Lotus;Crystal Reel,2026-05-12,2026-06-08
+P101,1025,Casino Aurora NL,Frost Peak;Starlit Bay,2026-06-20,2026-06-26
+P102,1024,Bet Omega SI,Ember Wheel;Velvet Vault;Amber Tide,2026-07-02,2026-07-08
+P103,1034,Casino Kestrel DE,Pharaoh's Gate,2026-04-15,2026-04-21
+P104,1024,Bet Omega SI,Thunder Hooves;Crystal Reel;Velvet Vault,2026-04-06,2026-04-10
+P105,1011,Casino Lambda LV,Silver Comet,2026-04-16,2026-04-18
+P106,1011,Casino Lambda LV,Silver Comet;Ember Wheel,2026-08-13,2026-09-09
+P107,1008,Slots Theta ES,Pharaoh's Gate;Tiger Lagoon,2026-08-29,2026-09-04
+P108,1021,Slots Phi RO,Iron Lotus,2026-06-14,2026-07-04
+P109,1008,Slots Theta ES,Wild Orchard,2026-09-09,2026-09-15
+P110,1024,Bet Omega SI,Iron Lotus;Golden Fox,2026-07-17,2026-07-21
+P111,1033,Slots Juniper RO,Jade Temple;Royal Clover,2026-09-09,2026-09-29
+P112,1026,Slots Boreal ES,Rapid Rooster,2026-08-02,2026-08-08
+P113,1022,Casino Chi DE,ALL,2026-05-10,2026-05-12
+P114,1015,Bet Omicron NL,Pharaoh's Gate,2026-09-06,2026-09-10
+P115,1016,Casino Pi IT,Lucky Lantern;Rapid Rooster,2026-09-10,2026-09-23
+P116,1027,Casino Cedar CH,Starlit Bay,2026-04-14,2026-04-18
+P117,1020,Casino Upsilon AT,Crystal Reel,2026-06-06,2026-06-26
+P118,1008,Slots Theta ES,Pharaoh's Gate,2026-09-19,2026-09-23
+P119,1026,Slots Boreal ES,Thunder Hooves,2026-09-16,2026-09-18
+P120,1038,Casino Opal NL,Lucky Lantern,2026-05-12,2026-05-25
