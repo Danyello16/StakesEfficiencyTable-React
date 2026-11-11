@@ -28,6 +28,8 @@ npm run dev
 
 Open **http://localhost:5173**. Leave both terminals running. If PowerShell blocks `npm`, use `npm.cmd ci` and `npm.cmd run dev` instead.
 
+If setup fails, see [Troubleshooting](TROUBLESHOOTING.md) for common errors and fixes.
+
 ## Results and tests
 
 `results.csv` is included. To regenerate it, run this from the project root (Windows):
